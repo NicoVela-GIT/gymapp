@@ -41,7 +41,7 @@ export default function Generator() {
                     <p>Select muscle groups</p>
                     <i className="fa-solid absolute right-3 top-1/2 -translate-y-1/2 fa-caret-down"></i>
                 </button>
-                {showModal && true(
+                {showModal && (
                     <div>modal</div>
                 )}
             </div>
